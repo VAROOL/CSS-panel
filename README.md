@@ -1,2 +1,2 @@
 # CSS-panel
-  horizontal scrolling content pane using transfrom, transition, animation all
+  horizontal scrolling content panel using transfrom, transition, animation all
